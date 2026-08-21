@@ -108,16 +108,10 @@ Focus        LLM agents · applied ML · reinforcement learning · real-time 3D
 ## Activity
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ashyou09&hide_border=true&background=0a0b0d&stroke=1f232a&ring=f0a22e&fire=f0a22e&currStreakLabel=f0a22e&sideLabels=9ca2ac&dates=6a707a&sideNums=e9eaec&currStreakNum=e9eaec&excludeDaysLabel=6a707a" alt="Contribution streak" height="170" />
-
-<br><br>
-
-![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fashyou09&query=%24.public_repos&label=public%20repos&style=flat-square&color=0f1114&labelColor=0a0b0d)
-![Stars](https://img.shields.io/github/stars/ashyou09?affiliations=OWNER&style=flat-square&color=0f1114&labelColor=0a0b0d&label=stars)
-![Followers](https://img.shields.io/github/followers/ashyou09?style=flat-square&color=0f1114&labelColor=0a0b0d&label=followers)
-
+  <img src="./assets/stats.svg" alt="Public repos, stars, followers and language mix" width="100%" />
 </div>
+
+<sub>Generated from the GitHub API by <a href="./scripts/build_stats.py">scripts/build_stats.py</a> and refreshed daily, so it renders from this repo rather than a third-party badge service.</sub>
 
 ---
 
