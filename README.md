@@ -64,7 +64,7 @@ Focus        LLM agents · applied ML · reinforcement learning · real-time 3D
 **AI / ML**
 &nbsp;
 ![Python](https://img.shields.io/badge/Python-0f1114?style=flat-square&logo=python&logoColor=e9eaec)
-![PyTorch](https://img.shields.io/badge/PyTorch-0f1114?style=flat-square&logo=pytorch&logoColor=e9eaec)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0f1114?style=flat-square&logo=tensorflow&logoColor=e9eaec)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0f1114?style=flat-square&logo=scikitlearn&logoColor=e9eaec)
 ![LangChain](https://img.shields.io/badge/LangGraph-0f1114?style=flat-square&logo=langchain&logoColor=e9eaec)
 ![Anthropic](https://img.shields.io/badge/Claude%20%2B%20MCP-0f1114?style=flat-square&logo=anthropic&logoColor=e9eaec)
@@ -82,11 +82,12 @@ Focus        LLM agents · applied ML · reinforcement learning · real-time 3D
 ![Node.js](https://img.shields.io/badge/Node.js-0f1114?style=flat-square&logo=nodedotjs&logoColor=e9eaec)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0f1114?style=flat-square&logo=fastapi&logoColor=e9eaec)
 ![Tailwind](https://img.shields.io/badge/Tailwind-0f1114?style=flat-square&logo=tailwindcss&logoColor=e9eaec)
+![Streamlit](https://img.shields.io/badge/Streamlit-0f1114?style=flat-square&logo=streamlit&logoColor=e9eaec)
 
 **Data & Infra**
 &nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-0f1114?style=flat-square&logo=mongodb&logoColor=e9eaec)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f1114?style=flat-square&logo=postgresql&logoColor=e9eaec)
+![MySQL](https://img.shields.io/badge/MySQL-0f1114?style=flat-square&logo=mysql&logoColor=e9eaec)
 ![Docker](https://img.shields.io/badge/Docker-0f1114?style=flat-square&logo=docker&logoColor=e9eaec)
 ![Firebase](https://img.shields.io/badge/Firebase-0f1114?style=flat-square&logo=firebase&logoColor=e9eaec)
 ![Supabase](https://img.shields.io/badge/Supabase-0f1114?style=flat-square&logo=supabase&logoColor=e9eaec)
@@ -108,8 +109,13 @@ Focus        LLM agents · applied ML · reinforcement learning · real-time 3D
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ashyou09&show_icons=true&hide_border=true&bg_color=0a0b0d&title_color=f0a22e&text_color=9ca2ac&icon_color=f0a22e&ring_color=f0a22e&include_all_commits=true" alt="GitHub stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashyou09&layout=compact&hide_border=true&bg_color=0a0b0d&title_color=f0a22e&text_color=9ca2ac&langs_count=8" alt="Top languages" />
+<img src="https://streak-stats.demolab.com?user=ashyou09&hide_border=true&background=0a0b0d&stroke=1f232a&ring=f0a22e&fire=f0a22e&currStreakLabel=f0a22e&sideLabels=9ca2ac&dates=6a707a&sideNums=e9eaec&currStreakNum=e9eaec&excludeDaysLabel=6a707a" alt="Contribution streak" height="170" />
+
+<br><br>
+
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fashyou09&query=%24.public_repos&label=public%20repos&style=flat-square&color=0f1114&labelColor=0a0b0d)
+![Stars](https://img.shields.io/github/stars/ashyou09?affiliations=OWNER&style=flat-square&color=0f1114&labelColor=0a0b0d&label=stars)
+![Followers](https://img.shields.io/github/followers/ashyou09?style=flat-square&color=0f1114&labelColor=0a0b0d&label=followers)
 
 </div>
 
