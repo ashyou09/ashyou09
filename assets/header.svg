@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Ashutosh Singh — AI / ML Engineer">
+  <defs>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f0a22e" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#f0a22e" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#f0a22e" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="glow" x1="0" y1="0" x2="0.9" y2="1">
+      <stop offset="0" stop-color="#f0a22e" stop-opacity="0.07"/>
+      <stop offset="0.6" stop-color="#f0a22e" stop-opacity="0"/>
+    </linearGradient>
+
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#ffffff" fill-opacity="0.045"/>
+    </pattern>
+
+    <clipPath id="frame">
+      <rect width="1200" height="300" rx="16"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="300" fill="#0a0b0d"/>
+    <rect width="1200" height="300" fill="url(#grid)"/>
+    <rect width="1200" height="300" fill="url(#glow)"/>
+
+    <!-- slow light sweep -->
+    <rect x="-200" y="0" width="200" height="300" fill="url(#sweep)" opacity="0.13">
+      <animate attributeName="x" values="-200;1200" dur="11s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- ── right: small feed-forward network motif ── -->
+    <g transform="translate(0,0)">
+      <g stroke="#f0a22e" stroke-width="1" fill="none" stroke-opacity="0.22">
+        <path d="M930 90 L1020 118 M930 90 L1020 182"/>
+        <path d="M930 150 L1020 118 M930 150 L1020 182"/>
+        <path d="M930 210 L1020 118 M930 210 L1020 182"/>
+        <path d="M1020 118 L1108 150 M1020 182 L1108 150"/>
+        <animate attributeName="stroke-opacity" values="0.12;0.34;0.12" dur="4.5s" repeatCount="indefinite"/>
+      </g>
+
+      <g fill="#0a0b0d" stroke="#f0a22e" stroke-width="1.4" stroke-opacity="0.75">
+        <circle cx="930" cy="90" r="6"/>
+        <circle cx="930" cy="150" r="6"/>
+        <circle cx="930" cy="210" r="6"/>
+        <circle cx="1020" cy="118" r="6"/>
+        <circle cx="1020" cy="182" r="6"/>
+        <circle cx="1108" cy="150" r="7"/>
+      </g>
+
+      <circle cx="1108" cy="150" r="7" fill="#f0a22e">
+        <animate attributeName="fill-opacity" values="0.25;1;0.25" dur="3s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="930" cy="90" r="6" fill="#f0a22e">
+        <animate attributeName="fill-opacity" values="0.9;0.15;0.9" dur="3.6s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="930" cy="210" r="6" fill="#f0a22e">
+        <animate attributeName="fill-opacity" values="0.2;0.85;0.2" dur="4.2s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <!-- corner ticks -->
+    <g stroke="#f0a22e" stroke-opacity="0.5" stroke-width="1.5" fill="none">
+      <path d="M40 68 L40 48 L60 48"/>
+      <path d="M1160 68 L1160 48 L1140 48"/>
+      <path d="M40 232 L40 252 L60 252"/>
+      <path d="M1160 232 L1160 252 L1140 252"/>
+    </g>
+
+    <!-- eyebrow -->
+    <text x="72" y="102" font-family="ui-monospace, 'SF Mono', 'DejaVu Sans Mono', Menlo, monospace"
+          font-size="13" letter-spacing="4.6" fill="#f0a22e">AI / ML ENGINEER</text>
+
+    <!-- name -->
+    <text x="70" y="178" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
+          font-size="72" font-weight="600" letter-spacing="-2.2" fill="#e9eaec">Ashutosh Singh</text>
+
+    <!-- accent rule -->
+    <rect x="72" y="204" width="180" height="2" fill="#f0a22e" rx="1">
+      <animate attributeName="width" from="0" to="180" dur="1.1s" begin="0.25s" fill="freeze"
+               calcMode="spline" keySplines="0.16 1 0.3 1"/>
+    </rect>
+
+    <!-- strapline -->
+    <text x="72" y="242" font-family="ui-monospace, 'SF Mono', 'DejaVu Sans Mono', Menlo, monospace"
+          font-size="14.5" fill="#9ca2ac">
+      agentic systems · applied ML · browser-native 3D
+      <animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0.9s" fill="freeze"/>
+    </text>
+
+    <rect width="1200" height="300" rx="16" fill="none" stroke="#ffffff" stroke-opacity="0.09"/>
+  </g>
+</svg>
