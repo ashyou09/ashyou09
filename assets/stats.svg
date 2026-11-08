@@ -3,27 +3,27 @@
 <g clip-path="url(#c)"><rect width="1200" height="190" fill="#0a0b0d"/>
 <rect width="1200" height="190" fill="url(#g)"/>
 <text x="72" y="46" font-family="ui-monospace, 'SF Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="12" letter-spacing="4.4" fill="#f0a22e">AT A GLANCE</text>
-<text x="72" y="118" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="44" font-weight="600" letter-spacing="-1.6" fill="#e9eaec">24</text>
+<text x="72" y="118" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="44" font-weight="600" letter-spacing="-1.6" fill="#e9eaec">25</text>
 <text x="72" y="144" font-family="ui-monospace, 'SF Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="11.5" fill="#6a707a">public repos</text>
 <text x="240" y="118" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="44" font-weight="600" letter-spacing="-1.6" fill="#e9eaec">8</text>
 <text x="240" y="144" font-family="ui-monospace, 'SF Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="11.5" fill="#6a707a">stars earned</text>
 <text x="408" y="118" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="44" font-weight="600" letter-spacing="-1.6" fill="#e9eaec">1</text>
 <text x="408" y="144" font-family="ui-monospace, 'SF Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="11.5" fill="#6a707a">followers</text>
 <text x="640" y="46" font-family="ui-monospace, 'SF Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="12" letter-spacing="4.4" fill="#f0a22e">LANGUAGES</text>
-<rect x="640.0" y="84" width="160.7" height="12" rx="6" fill="#f1e05a" fill-opacity="0.92"/>
-<rect x="802.7" y="84" width="120.0" height="12" rx="6" fill="#3572A5" fill-opacity="0.92"/>
-<rect x="924.7" y="84" width="99.7" height="12" rx="6" fill="#e34c26" fill-opacity="0.92"/>
-<rect x="1026.3" y="84" width="38.7" height="12" rx="6" fill="#3178c6" fill-opacity="0.92"/>
-<rect x="1067.0" y="84" width="38.7" height="12" rx="6" fill="#663399" fill-opacity="0.92"/>
-<rect x="1107.7" y="84" width="18.3" height="12" rx="6" fill="#dea584" fill-opacity="0.92"/>
+<rect x="640.0" y="84" width="154.2" height="12" rx="6" fill="#f1e05a" fill-opacity="0.92"/>
+<rect x="796.2" y="84" width="115.1" height="12" rx="6" fill="#3572A5" fill-opacity="0.92"/>
+<rect x="913.3" y="84" width="95.6" height="12" rx="6" fill="#e34c26" fill-opacity="0.92"/>
+<rect x="1010.9" y="84" width="56.6" height="12" rx="6" fill="#3178c6" fill-opacity="0.92"/>
+<rect x="1069.4" y="84" width="37.0" height="12" rx="6" fill="#663399" fill-opacity="0.92"/>
+<rect x="1108.5" y="84" width="17.5" height="12" rx="6" fill="#dea584" fill-opacity="0.92"/>
 <circle cx="644" cy="122" r="4" fill="#f1e05a"/>
-<text x="656" y="126" font-family="ui-monospace, 'SF Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="11.5" fill="#9ca2ac">JavaScript <tspan fill="#6a707a">33%</tspan></text>
+<text x="656" y="126" font-family="ui-monospace, 'SF Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="11.5" fill="#9ca2ac">JavaScript <tspan fill="#6a707a">32%</tspan></text>
 <circle cx="810" cy="122" r="4" fill="#3572A5"/>
-<text x="822" y="126" font-family="ui-monospace, 'SF Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="11.5" fill="#9ca2ac">Python <tspan fill="#6a707a">25%</tspan></text>
+<text x="822" y="126" font-family="ui-monospace, 'SF Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="11.5" fill="#9ca2ac">Python <tspan fill="#6a707a">24%</tspan></text>
 <circle cx="976" cy="122" r="4" fill="#e34c26"/>
-<text x="988" y="126" font-family="ui-monospace, 'SF Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="11.5" fill="#9ca2ac">HTML <tspan fill="#6a707a">21%</tspan></text>
+<text x="988" y="126" font-family="ui-monospace, 'SF Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="11.5" fill="#9ca2ac">HTML <tspan fill="#6a707a">20%</tspan></text>
 <circle cx="644" cy="146" r="4" fill="#3178c6"/>
-<text x="656" y="150" font-family="ui-monospace, 'SF Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="11.5" fill="#9ca2ac">TypeScript <tspan fill="#6a707a">8%</tspan></text>
+<text x="656" y="150" font-family="ui-monospace, 'SF Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="11.5" fill="#9ca2ac">TypeScript <tspan fill="#6a707a">12%</tspan></text>
 <circle cx="810" cy="146" r="4" fill="#663399"/>
 <text x="822" y="150" font-family="ui-monospace, 'SF Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="11.5" fill="#9ca2ac">CSS <tspan fill="#6a707a">8%</tspan></text>
 <circle cx="976" cy="146" r="4" fill="#dea584"/>
